@@ -1,0 +1,9 @@
+Prog1; Basic array functions and intro into ARMv8
+
+Purpose:
+	//a). Compute the sum of the n positive integers. Store the result in X11.
+	//b). Compute the average of n positive integers. Store the result in X1
+	//c). Compute the smallest of array v. Store the result in X9
+	//d). Compute the biggest of array v. Store the result in X10
+  
+  Array size is fixed with 8 values.
